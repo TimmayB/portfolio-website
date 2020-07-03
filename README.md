@@ -1,0 +1,3 @@
+This is a personal project to demonstrate and showcase my skillset.
+
+I've been an Engineer/Architect/Data Scientist/Researcher for one of the largest insurance providers since 2016.  I work primarily on proof-of-concept applications around artificial intelligence.  But my work is varied and stretches across many facets of the organization from designing internal applications, to advancing our cloud adoption, to evaluating the potential of blockchain technologies for the industry.
